@@ -853,7 +853,7 @@
 
 .field public static final fc:I = 0x7f0e00b6
 
-.field public static final fd:I = 0x7f0e00a7
+.field public static final fd:I = 0x7f0e00ad # @color/bg_item_selected
 
 .field public static final fe:I = 0x7f0e0298
 
@@ -861,7 +861,7 @@
 
 .field public static final fg:I = 0x7f0e0299
 
-.field public static final fh:I = 0x7f0e024f
+.field public static final fh:I = 0x7f0e0223 # @color/button_material_dark
 
 .field public static final fi:I = 0x7f0e02b7
 
@@ -1843,7 +1843,7 @@
 
 .field public static final ou:I = 0x7f040091
 
-.field public static final ov:I = 0x7f0e00ce
+.field public static final ov:I = 0x7f0e008a # @color/default_bg
 
 .field public static final ow:I = 0x7f0b009d
 
